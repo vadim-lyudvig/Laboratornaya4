@@ -1,0 +1,41 @@
+C:\Users\Администратор\source\repos\Gadget\Gadget\obj\Debug\Vehicle.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Gadget\Gadget\bin\Debug\Gadget.exe.config
+C:\Users\Администратор\source\repos\Gadget\Gadget\bin\Debug\Gadget.exe
+C:\Users\Администратор\source\repos\Gadget\Gadget\bin\Debug\Gadget.pdb
+C:\Users\Администратор\source\repos\Gadget\Gadget\obj\Debug\Gadget.Form1.resources
+C:\Users\Администратор\source\repos\Gadget\Gadget\obj\Debug\Gadget.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Gadget\Gadget\obj\Debug\Vehicle.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Gadget\Gadget\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Gadget\Gadget\obj\Debug\Gadget.exe
+C:\Users\Администратор\source\repos\Gadget\Gadget\obj\Debug\Gadget.pdb
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\bin\Debug\Gadget.exe.config
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\bin\Debug\Gadget.exe
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\bin\Debug\Gadget.pdb
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.AssemblyReference.cache
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\obj\Debug\Vehicle.Form1.resources
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\obj\Debug\Gadget.Properties.Resources.resources
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.GenerateResource.cache
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\obj\Debug\Gadget.exe
+C:\Users\Администратор\Downloads\Vehicle\Vehicle\obj\Debug\Gadget.pdb
+C:\Users\vadim\Desktop\Vehicle\Vehicle\bin\Debug\Gadget.exe.config
+C:\Users\vadim\Desktop\Vehicle\Vehicle\bin\Debug\Gadget.exe
+C:\Users\vadim\Desktop\Vehicle\Vehicle\bin\Debug\Gadget.pdb
+C:\Users\vadim\Desktop\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\Vehicle\Vehicle\obj\Debug\Vehicle.Form1.resources
+C:\Users\vadim\Desktop\Vehicle\Vehicle\obj\Debug\Gadget.Properties.Resources.resources
+C:\Users\vadim\Desktop\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.GenerateResource.cache
+C:\Users\vadim\Desktop\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\Vehicle\Vehicle\obj\Debug\Gadget.exe
+C:\Users\vadim\Desktop\Vehicle\Vehicle\obj\Debug\Gadget.pdb
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\bin\Debug\Gadget.exe.config
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\bin\Debug\Gadget.exe
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\bin\Debug\Gadget.pdb
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\obj\Debug\Vehicle.csprojAssemblyReference.cache
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\obj\Debug\Vehicle.Form1.resources
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\obj\Debug\Gadget.Properties.Resources.resources
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.GenerateResource.cache
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\obj\Debug\Gadget.exe
+E:\ИРНИТУ\2 курс\ТП\Лаба (4) 17.11.21\Vehicle\Vehicle\obj\Debug\Gadget.pdb
